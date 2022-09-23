@@ -8,7 +8,7 @@ blocks:
       all together in pages/\[filename].tsx, all based on a schema defined in
       .tina/schema.ts.
     actions:
-      - label: Get Started
+      - label: Проекты
         type: button
         icon: true
         link: /posts

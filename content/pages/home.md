@@ -12,7 +12,7 @@ blocks:
         type: button
         icon: true
         link: /posts
-      - label: Read Blog
+      - label: Новости
         type: link
         icon: false
         link: /posts

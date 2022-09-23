@@ -31,10 +31,10 @@
     }
   },
   "theme": {
-    "color": "teal",
-    "font": "sans",
-    "icon": "boxicon",
-    "darkMode": "system"
+    "color": "blue",
+    "font": "lato",
+    "icon": "heroicon",
+    "darkMode": "dark"
   },
   "_collection": "global",
   "_keepTemplateKey": false,

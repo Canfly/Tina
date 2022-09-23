@@ -1,6 +1,6 @@
 ---
 blocks:
-  - headline: Welcome to the Tina Starter
+  - headline: 'Hi, Canfly'
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
@@ -17,8 +17,8 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/tina-illustration.webp
-      alt: Tina
+      src: /uploads/logo2022.png
+      alt: Canfly
     color: default
     _template: hero
   - items:

@@ -27,10 +27,10 @@ blocks:
         type: link
         icon: false
         link: 'https://twitter.com/metaskazki'
-      - label: Action Label
+      - label: tg
         type: button
         icon: true
-        link: /
+        link: 'https://t.me/folkverse'
     image:
       src: /uploads/logo2022.png
       alt: Canfly

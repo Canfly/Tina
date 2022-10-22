@@ -40,11 +40,9 @@ blocks:
       - icon:
           color: red
           style: float
-          name: code
-        title: Amazing Feature
-        text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+          name: tina
+        title: В СКАЗКУ С СОБСТВЕННЫМИ NFT
+        text: Ознакомьтесь с коллекцией «Колобок» на превратите NFT в сказку
       - icon:
           color: primary
           style: float

@@ -19,10 +19,10 @@ blocks:
       колобок, которые в будущем можно будет использовать внутри метавселенной
 
     actions:
-      - label: Проекты
+      - label: Посмотреть NFT
         type: button
         icon: true
-        link: /posts
+        link: 'https://rarible.com/skazki'
       - label: Новости
         type: link
         icon: false

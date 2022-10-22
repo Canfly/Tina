@@ -64,12 +64,21 @@ blocks:
       - icon:
           color: green
           style: float
-          name: palette
-        title: Configurable Theme
+          name: chart
+        title: ЦАРЬ КОЩЕЙ НАД ЗЛАТОМ ЧАХНЕТ
         text: >-
-          Edit global theme configuration with Tina. Change your theme's primary
-          color, font, or icon set.
+          ЗЛАТО это специальный токен который используется для внутреннего
+          обмена между игроками. Их можно будет использовать активно, а можно и
+          оставить 
     color: tint
     _template: features
+  - body: |
+      # ROADMAP
+
+      В РАЗРАБОТКЕ
+
+      2022 (c) Canfly.org
+    color: tint
+    _template: content
 ---
 

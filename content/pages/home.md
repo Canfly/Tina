@@ -23,10 +23,10 @@ blocks:
         type: button
         icon: true
         link: 'https://rarible.com/skazki'
-      - label: Новости
+      - label: Перейти в твиттер
         type: link
         icon: false
-        link: /posts
+        link: 'https://twitter.com/metaskazki'
     image:
       src: /uploads/logo2022.png
       alt: Canfly

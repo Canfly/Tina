@@ -1,12 +1,23 @@
 ---
 blocks:
-  - headline: 'Hi, Canfly'
-    text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      **content/pages/home.md**, components from components/blocks, and puts
-      them all together in pages/\[filename].tsx, all based on a schema defined
-      in .tina/schema.ts.
+  - headline: В сказке возможно всё
+    text: >+
+      В некотором царстве, в некотором государстве жила-была Метавселенная, и
+      было у неё тридцать три сказки. Младшую звали "Колобок"
+
+
+      Позвал однажды разработчик Метавселенной своих друзей и говорит им:\
+
+      \
+
+      Мы - молодая команда энтузиастов, предлагаем тебе присоединиться к
+      рождению этой метавселенной, которую мы решили посвятить народным сказках
+
+
+      Уже сейчас на площадке [rarible.com/skazki](https://rarible.com/skazki
+      "rarible.com/skazki") доступны некоторые NFT: некоторых. персонажей сказки
+      колобок, которые в будущем можно будет использовать внутри метавселенной
+
     actions:
       - label: Проекты
         type: button
